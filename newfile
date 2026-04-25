@@ -1,0 +1,28 @@
+Clone
+
+2 options. These two access is for entire account.
+
+1. GitHub Key = personal access token = PAT ---> Not secure
+
+
+2. SSH
+
+Private key and public key
+
+In person: Private key
+
+In system: Public key
+
+
+commands:
+
+1. git clone URL
+
+2. git status
+
+3. git checkout BRANCH_NAME
+   git switch BRANCH_NAME 
+
+4. git checkout -b BRANCH_NAME
+
+5. 
